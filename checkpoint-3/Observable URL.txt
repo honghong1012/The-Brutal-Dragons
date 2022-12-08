@@ -1,0 +1,5 @@
+visualization1 URL:
+https://observablehq.com/@honghong1012/checkpoint-3-interactive-visualization-with-d3-js-1
+
+visualization2 URL:
+https://observablehq.com/@honghong1012/checkpoint-3-interactive-visualization-with-d3-js-2

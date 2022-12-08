@@ -1,1 +1,3 @@
 # The-Brutal-Dragons
+
+Racial diversity is an important social issue in our world today. At the same time, the tension between the police and civilians becomes severe due to the racial disparities in the process of law enforcement. The police tend to treat colored people unfairly which leads to multiple allegations of misconduct. Diversification is a widely proposed policing reform. Our group attempts to conduct research on the diversity of police officers and discuss the relationship between policing diversity and misconduct rate, including race and gender representativeness. The project will focus on districts with similar racial makeup to make sure the misconduct rate would not be affected by the race distribution of the area. 
